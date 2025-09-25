@@ -41,3 +41,39 @@ b. Fatality rates varied, with some countries crossing 10% CFR.
 c. Monthly case spikes corresponded with major COVID-19 waves.
 
 d. Forecasting helped policy-level decision-making for healthcare resource allocation.
+
+
+**5. Business Impact & Insights:**
+
+1. Policy-Level Decision Support
+
+a. The dashboard highlights regional spikes and trends, enabling policymakers to allocate resources (beds, oxygen, vaccines) to the most affected areas.
+
+b. Forecasting with DAX provided early warnings about upcoming surges.
+
+2. Healthcare Resource Allocation
+
+a. CFR (Case Fatality Rate) analysis identified high-risk countries/regions, allowing governments and NGOs to prioritize critical supplies.
+
+b. Regional comparisons supported balanced distribution of medical staff and emergency kits.
+
+3. Public Awareness & Communication
+
+a. Interactive charts simplified complex COVID-19 data, making it easier for health ministries to communicate risks to the public.
+
+b. Clear KPIs helped media & healthcare campaigns present verified, digestible numbers.
+
+4. Operational Efficiency
+
+a. Automated pipelines in SQL and Excel reduced manual reporting errors.
+
+b. Daily summary view ensured real-time updates in Power BI, cutting reporting time by hours.
+
+5. Strategic Planning
+
+a. Insights on monthly waves helped businesses and schools decide on lockdowns or reopening strategies.
+
+b. Governments could plan budgets for healthcare, vaccination, and emergency responses more effectively.
+
+
+**6. Screenshots and Demos:**
